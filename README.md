@@ -93,6 +93,9 @@ http://superuser.com/questions/130443/remotely-run-script-on-unix-get-output-loc
 http://www.jstorimer.com/blogs/workingwithcode/7766119-when-to-use-stderr-instead-of-stdout
 http://samy.pl/combobreaker/
 http://bestmvno.com/
+https://www.youtube.com/watch?v=eYCv9RsXjkc
+http://tvpadtalk.ca/discussion/511/phanto-pkg-report
+https://www.youtube.com/watch?v=g2N5OOTu0xQ&feature=iv&src_vid=eYCv9RsXjkc&annotation_id=annotation_802509329
 
 
 
