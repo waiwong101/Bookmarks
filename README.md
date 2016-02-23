@@ -39,6 +39,9 @@ http://www.thingiverse.com/thing:803236/#files
 https://support.purevpn.com/vpn-servers
 http://www.thingiverse.com/thing:1008943
 
+Bash:
+CUT - http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html
+https://www.youtube.com/watch?v=SpCC13VFnOA
 =========
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk
