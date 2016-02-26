@@ -40,8 +40,23 @@ https://support.purevpn.com/vpn-servers
 http://www.thingiverse.com/thing:1008943
 
 Bash:
-CUT - http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html
+CUT - 
+http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html
 https://www.youtube.com/watch?v=SpCC13VFnOA
+Paste -
+http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html
+https://www.youtube.com/watch?v=DCJPFjS_vss
+uniq - 
+http://www.thegeekstuff.com/2013/05/uniq-command-examples/
+https://www.youtube.com/watch?v=VRrd9ErU13w
+Sort/Sed - 
+https://www.youtube.com/watch?v=h5MpG3QYSSk
+https://en.wikipedia.org/wiki/Sort_%28Unix%29
+http://www.thegeekstuff.com/2013/04/sort-files/
+TR -
+http://www.thegeekstuff.com/2012/12/linux-tr-command/
+
+
 =========
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk
