@@ -36,7 +36,8 @@ https://support.purevpn.com/vpn-servers <br />
 
 3DPrinting:<br />
 http://www.instructables.com/id/Chimera-60-DLP-resin-3d-printer/ <br />
-http://www.instructables.com/id/Little-Dipper-SLADLP-3D-printer-for-under-500-proj/ <br />
+http://www.instructables.com/id/Little-Dipper-SLADLP-3D-printer-for-under-500-proj/
+http://www.thingiverse.com/thing:682415 <br />
 http://www.buildyourownsla.com/forum/
 http://www.richrap.blogspot.com/ <br />
 https://plus.google.com/communities/109609533907401814291 <br />
