@@ -39,21 +39,21 @@ https://support.purevpn.com/vpn-servers
 http://www.thingiverse.com/thing:1008943
 
 Bash:
-1.CUT - 
-2.http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html
-3.https://www.youtube.com/watch?v=SpCC13VFnOA
-Paste -
-http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html
-https://www.youtube.com/watch?v=DCJPFjS_vss
-uniq - 
-http://www.thegeekstuff.com/2013/05/uniq-command-examples/
-https://www.youtube.com/watch?v=VRrd9ErU13w
-Sort/Sed - 
-https://www.youtube.com/watch?v=h5MpG3QYSSk
-https://en.wikipedia.org/wiki/Sort_%28Unix%29
-http://www.thegeekstuff.com/2013/04/sort-files/
-TR -
-http://www.thegeekstuff.com/2012/12/linux-tr-command/
+1.CUT - <br />
+2.http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html <br />
+3.https://www.youtube.com/watch?v=SpCC13VFnOA <br />
+Paste - <br />
+http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html <br />
+https://www.youtube.com/watch?v=DCJPFjS_vss <br />
+uniq - <br />
+http://www.thegeekstuff.com/2013/05/uniq-command-examples/ <br />
+https://www.youtube.com/watch?v=VRrd9ErU13w <br />
+Sort/Sed - <br />
+https://www.youtube.com/watch?v=h5MpG3QYSSk <br />
+https://en.wikipedia.org/wiki/Sort_%28Unix%29 <br />
+http://www.thegeekstuff.com/2013/04/sort-files/ <br />
+TR - <br />
+http://www.thegeekstuff.com/2012/12/linux-tr-command/ <br />
 
 
 =
