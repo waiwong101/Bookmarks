@@ -39,9 +39,9 @@ https://support.purevpn.com/vpn-servers
 http://www.thingiverse.com/thing:1008943
 
 Bash:
-CUT - 
-http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html
-https://www.youtube.com/watch?v=SpCC13VFnOA
+1.CUT - 
+2.http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html
+3.https://www.youtube.com/watch?v=SpCC13VFnOA
 Paste -
 http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html
 https://www.youtube.com/watch?v=DCJPFjS_vss
