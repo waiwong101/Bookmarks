@@ -1,7 +1,6 @@
 # Bookmarks
 
 http://www.amazon.com/dp/B00002NDRQ/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=22W0W81SGWBJP&coliid=I24Z4JS4TFRRQN&psc=1"
-
 https://www.amzreviewtrader.com/
 https://www.snagshout.com/offers?sort=-campaigns.popularity
 https://courses.edx.org/login?next=/dashboard#
@@ -26,7 +25,6 @@ http://zennmaster.com/random-things/auto-bed-leveling-for-the-makerfarm-prusa-i3
 http://stores.ebay.com/folgertechnologiesllc/_i.html?rt=nc&_ipg=192
 https://prague2013.drupal.org/session/automate-drupal-deployments-linux-containers-docker-and-vagrant.html
 http://engineering.bittorrent.com/2013/02/04/udp-multicast-in-python-and-bittorrent-live/
-http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A2617941011%2Ck%3ACoil+Earring+Hooks&page=2&keywords=Coil+Earring+Hooks&ie=UTF8&qid=1445059917&spIA=B00K6HAU70,B00ESZD7XA
 https://www.etsy.com/search/handmade?q=origami%20earrings&order=most_relevant&ref=auto2&explicit_scope=1
 http://www.instructables.com/id/Easy-Home-Automation-using-servo-switches/
 http://forums.redflagdeals.com/tvpad-watch-hong-kong-taiwan-mainland-channels-live-no-monthly-fees-1135293/192/
@@ -58,7 +56,7 @@ TR -
 http://www.thegeekstuff.com/2012/12/linux-tr-command/
 
 
-=========
+=
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk
 https://medium.com/aws-activate-startup-blog/high-availability-for-mere-mortals-37edab2fd0f9?adbid=z12iunsjkzecc52fv221ez2jtoeqijchx04&adbpl=gp&adbpr=100017971115449920316&adbsc=startups_20150514_45784706&short_code=2zriw
