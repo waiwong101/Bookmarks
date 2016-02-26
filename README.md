@@ -1,6 +1,7 @@
 # Bookmarks
 
 http://www.amazon.com/dp/B00002NDRQ/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=22W0W81SGWBJP&coliid=I24Z4JS4TFRRQN&psc=1"
+
 https://www.amzreviewtrader.com/
 https://www.snagshout.com/offers?sort=-campaigns.popularity
 https://courses.edx.org/login?next=/dashboard#
