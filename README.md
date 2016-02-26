@@ -7,8 +7,6 @@ https://courses.edx.org/login?next=/dashboard#  <br />
 https://www.udacity.com/course/viewer#!/c-ud292/l-3163218691/m-3162269084  <br />
 https://www.udacity.com/course/viewer#!/c-cs256/l-423388858/m-422278778  <br /> 
 http://www.fatwallet.com/cash-back-shopping/ <br />
-http://www.richrap.blogspot.com/ <br />
-https://plus.google.com/communities/109609533907401814291 <br />
 http://www.aig.com/for-individuals_3789_561555.html  <br />
 http://www.ingridkjelling.com/articles/astro-photography-a-beginners-guide-to-photographing-the-milkyway/ <br />
 http://codepen.io/natewiley/pen/HBrbL <br />
@@ -34,9 +32,16 @@ https://www.youtube.com/watch?v=Bmm_3YCMgIc <br />
 http://www.cyberair.co.uk/support/windows/sharing-internet-connection-to-other-devices-via-ethernet-cable <br />
 https://blog.docker.com/2015/11/docker-multi-host-networking-ga/ <br />
 https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/ <br />
-http://www.thingiverse.com/thing:803236/#files <br />
 https://support.purevpn.com/vpn-servers <br />
+
+3DPrinting:
+http://www.instructables.com/id/Chimera-60-DLP-resin-3d-printer/ <br />
+http://www.instructables.com/id/Little-Dipper-SLADLP-3D-printer-for-under-500-proj/ <br />
+http://www.buildyourownsla.com/forum/
+http://www.richrap.blogspot.com/ <br />
+https://plus.google.com/communities/109609533907401814291 <br />
 http://www.thingiverse.com/thing:1008943 <br />
+http://www.thingiverse.com/thing:803236/#files <br />
 
 Bash:
 Cut - <br />
