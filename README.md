@@ -60,6 +60,11 @@ https://en.wikipedia.org/wiki/Sort_%28Unix%29 <br />
 http://www.thegeekstuff.com/2013/04/sort-files/ <br />
 TR - <br />
 http://www.thegeekstuff.com/2012/12/linux-tr-command/ <br />
+SED - <br />
+https://en.wikipedia.org/wiki/Sed <br />
+http://www.grymoire.com/Unix/Sed.html#uh-10a <br />
+http://tldp.org/LDP/abs/html/x23170.html <br />
+http://www.folkstalk.com/2012/01/sed-command-in-unix-examples.html <br />
 
 
 =
