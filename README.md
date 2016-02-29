@@ -65,10 +65,12 @@ https://en.wikipedia.org/wiki/Sed <br />
 http://www.grymoire.com/Unix/Sed.html#uh-10a <br />
 http://tldp.org/LDP/abs/html/x23170.html <br />
 http://www.folkstalk.com/2012/01/sed-command-in-unix-examples.html <br />
-AWS - <br />
+AWK - <br />
 http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/ <br />
 http://www.thegeekstuff.com/2010/02/awk-conditional-statements/ <br />
 https://www.youtube.com/watch?v=az6vd0tGhJI <br />
+Array - <br />
+http://www.thegeekstuff.com/2010/06/bash-array-tutorial/ <br />
 
 =
 
