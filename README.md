@@ -30,9 +30,13 @@ https://www.cloudtv.bz/#app <br />
 http://www.smellerbee.com/install-superrepo-xbmc-works-platforms/ <br />
 https://www.youtube.com/watch?v=Bmm_3YCMgIc <br />
 http://www.cyberair.co.uk/support/windows/sharing-internet-connection-to-other-devices-via-ethernet-cable <br />
+https://support.purevpn.com/vpn-servers <br />
+
+Docker:<br />
+http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/ <br />
 https://blog.docker.com/2015/11/docker-multi-host-networking-ga/ <br />
 https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/ <br />
-https://support.purevpn.com/vpn-servers <br />
+http://www.dockerwordpress.com/ <br />
 
 3DPrinting:<br />
 http://www.instructables.com/id/Chimera-60-DLP-resin-3d-printer/ <br />
@@ -129,7 +133,7 @@ http://bestmvno.com/ <br />
 https://www.youtube.com/watch?v=eYCv9RsXjkc <br />
 http://tvpadtalk.ca/discussion/511/phanto-pkg-report <br />
 https://www.youtube.com/watch?v=g2N5OOTu0xQ&feature=iv&src_vid=eYCv9RsXjkc&annotation_id=annotation_802509329 <br />
-http://www.dockerwordpress.com/ <br />
+
 
 
 
