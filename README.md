@@ -33,6 +33,8 @@ https://support.purevpn.com/vpn-servers <br />
 
 RPI: <br />
 http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229 <br />
+https://github.com/novaspirit/AlexaPi/ <br />
+http://sammachin.com/the-10-echo/ <br />
 https://www.youtube.com/watch?v=frH9HaQTFL8 <br />
 
 Docker:<br />
