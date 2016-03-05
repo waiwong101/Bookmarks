@@ -2,7 +2,6 @@
 
 http://www.amazon.com/dp/B00002NDRQ/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=22W0W81SGWBJP&coliid=I24Z4JS4TFRRQN&psc=1"  <br />
 https://www.amzreviewtrader.com/  <br />
-https://www.snagshout.com/offers?sort=-campaigns.popularity  <br />
 https://courses.edx.org/login?next=/dashboard#  <br />
 https://www.udacity.com/course/viewer#!/c-ud292/l-3163218691/m-3162269084  <br />
 https://www.udacity.com/course/viewer#!/c-cs256/l-423388858/m-422278778  <br /> 
@@ -31,6 +30,10 @@ http://www.smellerbee.com/install-superrepo-xbmc-works-platforms/ <br />
 https://www.youtube.com/watch?v=Bmm_3YCMgIc <br />
 http://www.cyberair.co.uk/support/windows/sharing-internet-connection-to-other-devices-via-ethernet-cable <br />
 https://support.purevpn.com/vpn-servers <br />
+
+RPI: <br />
+http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229 <br />
+https://www.youtube.com/watch?v=frH9HaQTFL8 <br />
 
 Docker:<br />
 http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/ <br />
