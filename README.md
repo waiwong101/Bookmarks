@@ -38,6 +38,7 @@ http://sammachin.com/the-10-echo/ <br />
 https://www.youtube.com/watch?v=frH9HaQTFL8 <br />
 
 Docker:<br />
+http://www.yannmoisan.com/docker.html <br />
 http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/ <br />
 https://blog.docker.com/2015/11/docker-multi-host-networking-ga/ <br />
 https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/ <br />
