@@ -37,6 +37,9 @@ https://github.com/novaspirit/AlexaPi/ <br />
 http://sammachin.com/the-10-echo/ <br />
 https://www.youtube.com/watch?v=frH9HaQTFL8 <br />
 
+RPI BT: <br />
+https://www.raspberrypi.org/learning/robo-butler/bluetooth-setup/ <br />
+
 Docker:<br />
 http://www.yannmoisan.com/docker.html <br />
 http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/ <br />
