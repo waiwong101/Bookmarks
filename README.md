@@ -48,6 +48,7 @@ https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plug
 http://www.dockerwordpress.com/ <br />
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04 <br />
 https://hungred.com/how-to/docker-mariadb-mysql-php-fpm-nginx-reverse-proxy-nginx-wordpress-phpmyadmin-setup/ <br />
+https://support.tutum.co/support/solutions/articles/5000562494-multi-container-wordpress-deployment <br />
 
 Wordpress Theme:<br />
 https://wordpress.org/themes/llorix-one-lite/ <br />
