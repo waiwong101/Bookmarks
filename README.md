@@ -54,6 +54,7 @@ https://support.tutum.co/support/solutions/articles/5000562494-multi-container-w
 Wordpress Theme:<br />
 https://wordpress.org/themes/llorix-one-lite/ <br />
 http://themeisle.com/demo/?theme=Llorix%20One&utm_source=webcodegeeks&utm_medium=email&utm_campaign=dedicated <br />
+http://athemes.com/collections/free-parallax-wordpress-themes/ <br />
 
 3DPrinting:<br />
 http://www.instructables.com/id/Chimera-60-DLP-resin-3d-printer/ <br />
