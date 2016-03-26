@@ -32,6 +32,7 @@ http://www.cyberair.co.uk/support/windows/sharing-internet-connection-to-other-d
 https://support.purevpn.com/vpn-servers <br />
 
 RPI: <br />
+https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
 http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229 <br />
 https://github.com/novaspirit/AlexaPi/ <br />
 http://sammachin.com/the-10-echo/ <br />
