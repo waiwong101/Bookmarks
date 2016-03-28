@@ -95,6 +95,9 @@ https://www.youtube.com/watch?v=az6vd0tGhJI <br />
 Array - <br />
 http://www.thegeekstuff.com/2010/06/bash-array-tutorial/ <br />
 
+Shafa
+http://app.shafa.com/apk/mifengshipin.html <br />
+http://app.shafa.com/apk/xiukongshipin.html <br />
 =
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
