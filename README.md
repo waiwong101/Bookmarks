@@ -42,6 +42,9 @@ https://www.youtube.com/watch?v=frH9HaQTFL8 <br />
 RPI BT: <br />
 https://www.raspberrypi.org/learning/robo-butler/bluetooth-setup/ <br />
 
+RPI Performance/Lag: <br />
+https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=84999 <br />
+
 Docker:<br />
 http://zeroturnaround.com/rebellabs/docker-commands-and-best-practices-cheat-sheet/ <br />
 http://www.yannmoisan.com/docker.html <br />
