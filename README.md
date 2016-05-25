@@ -106,8 +106,9 @@ http://app.shafa.com/apk/xiukongshipin.html <br />
 
 Responsive: 
 Joostrap: [Testing Your Responsive Web Design with Chrome Developer Mobile Emulator Tool](http://www.joostrap.com/support/tutorials-videos/204-testing-your-responsive-web-design-with-chrome-developer-mobile-emulator-tool)
-RESS and Testing: http://bradfrost.github.io/this-is-responsive/resources.html#ress <br />
-=
+Responsive Resources: [A collection of resources about the various aspects of responsive web design](http://bradfrost.github.io/this-is-responsive/resources.html#ress)
+
+
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
 https://medium.com/aws-activate-startup-blog/high-availability-for-mere-mortals-37edab2fd0f9?adbid=z12iunsjkzecc52fv221ez2jtoeqijchx04&adbpl=gp&adbpr=100017971115449920316&adbsc=startups_20150514_45784706&short_code=2zriw <br />
