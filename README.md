@@ -106,6 +106,7 @@ http://app.shafa.com/apk/xiukongshipin.html <br />
 
 Responsive: 
 Joostrap: [Testing Your Responsive Web Design with Chrome Developer Mobile Emulator Tool](http://www.joostrap.com/support/tutorials-videos/204-testing-your-responsive-web-design-with-chrome-developer-mobile-emulator-tool)
+RESS and Testing: http://bradfrost.github.io/this-is-responsive/resources.html#ress <br />
 =
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
