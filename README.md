@@ -104,7 +104,7 @@ Shafa
 http://app.shafa.com/apk/mifengshipin.html <br />
 http://app.shafa.com/apk/xiukongshipin.html <br />
 
-Responsive: <br />
+Responsive: 
 Joostrap: [Testing Your Responsive Web Design with Chrome Developer Mobile Emulator Tool](http://www.joostrap.com/support/tutorials-videos/204-testing-your-responsive-web-design-with-chrome-developer-mobile-emulator-tool)
 =
 
