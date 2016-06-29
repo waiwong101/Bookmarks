@@ -111,6 +111,8 @@ Responsive Resources: [A collection of resources about the various aspects of re
 Git: <br />
 [Development workflow with Git: Fork, Branching, Commits, and Pull Request](https://github.com/sevntu-checkstyle/sevntu.checkstyle/wiki/Development-workflow-with-Git:-Fork,-Branching,-Commits,-and-Pull-Request)
 [How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+[How to Sync a GitHub Fork and Rebase a Pull Request](https://www.youtube.com/watch?v=M7ZYkjOWr6g)
+
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
 https://medium.com/aws-activate-startup-blog/high-availability-for-mere-mortals-37edab2fd0f9?adbid=z12iunsjkzecc52fv221ez2jtoeqijchx04&adbpl=gp&adbpr=100017971115449920316&adbsc=startups_20150514_45784706&short_code=2zriw <br />
