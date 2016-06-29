@@ -109,9 +109,9 @@ Joostrap: [Testing Your Responsive Web Design with Chrome Developer Mobile Emula
 Responsive Resources: [A collection of resources about the various aspects of responsive web design](http://bradfrost.github.io/this-is-responsive/resources.html#ress)
 
 Git: <br />
-[Development workflow with Git: Fork, Branching, Commits, and Pull Request](https://github.com/sevntu-checkstyle/sevntu.checkstyle/wiki/Development-workflow-with-Git:-Fork,-Branching,-Commits,-and-Pull-Request)
-[How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-[How to Sync a GitHub Fork and Rebase a Pull Request](https://www.youtube.com/watch?v=M7ZYkjOWr6g)
+[Development workflow with Git: Fork, Branching, Commits, and Pull Request](https://github.com/sevntu-checkstyle/sevntu.checkstyle/wiki/Development-workflow-with-Git:-Fork,-Branching,-Commits,-and-Pull-Request) <br />
+[How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) <br />
+[How to Sync a GitHub Fork and Rebase a Pull Request](https://www.youtube.com/watch?v=M7ZYkjOWr6g) <br />
 
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
