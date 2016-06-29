@@ -112,6 +112,7 @@ Git: <br />
 [Development workflow with Git: Fork, Branching, Commits, and Pull Request](https://github.com/sevntu-checkstyle/sevntu.checkstyle/wiki/Development-workflow-with-Git:-Fork,-Branching,-Commits,-and-Pull-Request) <br />
 [How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) <br />
 [How to Sync a GitHub Fork and Rebase a Pull Request](https://www.youtube.com/watch?v=M7ZYkjOWr6g) <br />
+[Everything I Wish I Knew When I Started Using GitHub](https://www.youtube.com/watch?v=KDUtjZHIx44) <br />
 
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
