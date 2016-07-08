@@ -31,6 +31,9 @@ https://www.youtube.com/watch?v=Bmm_3YCMgIc <br />
 http://www.cyberair.co.uk/support/windows/sharing-internet-connection-to-other-devices-via-ethernet-cable <br />
 https://support.purevpn.com/vpn-servers <br />
 
+Testing: <br />
+[Product Integration Testing at the Speed of Netflix](http://techblog.netflix.com/2016/07/product-integration-testing-at-speed-of-Netflix.html) <br />
+
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
 http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229 <br />
