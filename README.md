@@ -34,6 +34,7 @@ https://support.purevpn.com/vpn-servers <br />
 Testing: <br />
 [Product Integration Testing at the Speed of Netflix](http://techblog.netflix.com/2016/07/product-integration-testing-at-speed-of-Netflix.html) <br />
 [Netflix Test Studio](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)<br />
+[Netflix A/B Testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)<br />
 
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
