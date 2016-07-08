@@ -59,6 +59,8 @@ http://www.dockerwordpress.com/ <br />
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04 <br />
 https://hungred.com/how-to/docker-mariadb-mysql-php-fpm-nginx-reverse-proxy-nginx-wordpress-phpmyadmin-setup/ <br />
 https://support.tutum.co/support/solutions/articles/5000562494-multi-container-wordpress-deployment <br />
+[Docker for Developers - Part 1 - Docker Track](https://www.youtube.com/watch?v=SK0sqfVn7ls)<br />
+[Docker for Developers - Part 2 - Docker Track](https://www.youtube.com/watch?v=ZsIb5tkyncA)<br />
 
 Wordpress Theme:<br />
 https://wordpress.org/themes/llorix-one-lite/ <br />
