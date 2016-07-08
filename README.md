@@ -36,6 +36,9 @@ Testing: <br />
 [Netflix Test Studio](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)<br />
 [Netflix A/B Testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)<br />
 
+Drupal <br />
+[Youtube - Drupal Organic Group](https://www.youtube.com/watch?v=WYwKeIQxzXA&index=3&list=PL6QdPLErV64W4ebptZgIvwkkrTIAjMGhM)<br />
+
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
 http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229 <br />
