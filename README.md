@@ -41,6 +41,7 @@ Drupal <br />
 [THE SECRET LIFE OF
 ORGANIC GROUPS](http://wayneeaker.com/sites/default/files/uploads/dc2015-og-presentation/index.html#/)<br />
 [RESTRICTING ITEMS DISPLAYED IN DRUPAL MEDIA LIBRARY USING HOOK_QUERY_ALTER](http://andymantell.com/blog/2012/07/restricting-items-displayed-drupal-media-library-using-hookqueryalter)<br />
+[CREATE CUSTOM BROWSER WIDGET TO THE MEDIA MODULE](https://cheppers.com/blog/create-custom-browser-widget-media-module)<br />
 
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
