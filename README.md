@@ -40,6 +40,7 @@ Drupal <br />
 [Youtube - Drupal Organic Group](https://www.youtube.com/watch?v=WYwKeIQxzXA&index=3&list=PL6QdPLErV64W4ebptZgIvwkkrTIAjMGhM)<br />
 [THE SECRET LIFE OF
 ORGANIC GROUPS](http://wayneeaker.com/sites/default/files/uploads/dc2015-og-presentation/index.html#/)<br />
+[RESTRICTING ITEMS DISPLAYED IN DRUPAL MEDIA LIBRARY USING HOOK_QUERY_ALTER](http://andymantell.com/blog/2012/07/restricting-items-displayed-drupal-media-library-using-hookqueryalter)<br />
 
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
