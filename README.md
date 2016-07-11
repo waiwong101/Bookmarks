@@ -38,6 +38,8 @@ Testing: <br />
 
 Drupal <br />
 [Youtube - Drupal Organic Group](https://www.youtube.com/watch?v=WYwKeIQxzXA&index=3&list=PL6QdPLErV64W4ebptZgIvwkkrTIAjMGhM)<br />
+[THE SECRET LIFE OF
+ORGANIC GROUPS](http://wayneeaker.com/sites/default/files/uploads/dc2015-og-presentation/index.html#/)<br />
 
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
