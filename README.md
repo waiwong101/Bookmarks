@@ -45,6 +45,7 @@ ORGANIC GROUPS](http://wayneeaker.com/sites/default/files/uploads/dc2015-og-pres
 [Organize media files in Drupal 7](https://www.ostraining.com/support-forum/drupal-support/organize-media-files-in-drupal-7/)<br />
 [OG Archives Video - Johan Falk/NodeOne](https://archive.org/search.php?query=subject%3A%22Organic+groups%22)<br />
 [OG Menu Video](http://wayneeaker.com/presentations/2015-05-13-secret-life-organic-groups)<br />
+[OG Menu](https://www.drupal.org/node/667822)<br />
 
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
