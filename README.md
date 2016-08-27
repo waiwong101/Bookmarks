@@ -65,7 +65,7 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=84999 <br />
 Docker:<br />
 http://zeroturnaround.com/rebellabs/docker-commands-and-best-practices-cheat-sheet/ <br />
 http://www.yannmoisan.com/docker.html <br />
-http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/ <br />
+[Automated Nginx Reverse Proxy for Docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)<br />
 https://blog.docker.com/2015/11/docker-multi-host-networking-ga/ <br />
 https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/ <br />
 http://www.dockerwordpress.com/ <br />
@@ -75,6 +75,11 @@ https://support.tutum.co/support/solutions/articles/5000562494-multi-container-w
 [Docker for Developers - Part 1 - Docker Track](https://www.youtube.com/watch?v=SK0sqfVn7ls)<br />
 [Docker for Developers - Part 2 - Docker Track](https://www.youtube.com/watch?v=ZsIb5tkyncA)<br />
 
+Docker/Wordpress:<br />
+[Host multiple websites on a single host with Docker](http://blog.florianlopes.io/host-multiple-websites-on-single-host-docker/)<br />
+[Automated Nginx Reverse Proxy for Docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)<br />
+[Using Docker and Nginx to serve multiple Wordpress sites » 11 Aug 2015](http://donalfarrell.com/2015/08/11/Docker-Nginx-Multi-Wordpress.html)<br />
+[Docker for WordPress MultiSite development](http://goldsounds.com/archives/2015/04/16/docker-for-wordpress-multisite-development/)<br />
 Wordpress Theme:<br />
 https://wordpress.org/themes/llorix-one-lite/ <br />
 http://themeisle.com/demo/?theme=Llorix%20One&utm_source=webcodegeeks&utm_medium=email&utm_campaign=dedicated <br />
