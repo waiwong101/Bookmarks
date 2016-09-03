@@ -136,6 +136,10 @@ AWS CodePipeline:<br />
 [Multi-Domain Projects on AWS Elastic Beanstalk](https://www.roth-digital.de/2013/01/26/multi-domain-projects-on-aws-elastic-beanstalk/)<br />
 [Create a Pipeline Using the AWS Code Pipeline Console](https://dzone.com/articles/create-a-pipeline-using-the-aws-codepipeline-conso)<br />
 
+Acer:<br />
+[Acer Community](http://community.acer.com/t5/Windows-Tablets-and-Convertibles/bd-p/tablets-win)<br />
+[Acer Aspire Switch Alpha 12 S](http://forum.tabletpcreview.com/threads/acer-aspire-switch-alpha-12-s.69500/page-23)<br />
+
 3DPrinting:<br />
 http://www.instructables.com/id/Chimera-60-DLP-resin-3d-printer/ <br />
 http://www.instructables.com/id/Little-Dipper-SLADLP-3D-printer-for-under-500-proj/
