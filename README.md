@@ -36,6 +36,13 @@ Testing: <br />
 [Netflix Test Studio](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)<br />
 [Netflix A/B Testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)<br />
 
+Behat:<br />
+[4 Examples Of Behat Success](https://axelerant.com/4-examples-of-behat-success/)<br />
+[Quickstart to testing your website with Behat, Mink, and Selenium](https://www.youtube.com/watch?v=9cYhnTojaHU)<br />
+[Lin-Clark](http://lin-clark.com/)<br />
+[Use Behat to track down PHP notices before they take over your Drupal site forever](http://mzlizz.mit.edu/godelcomau-use-behat-track-down-php-notices-they-take-over-your-drupal-site-forever)<br />
+[Fail test when a notice, warning or exception occurs in a request #143](https://github.com/jhedstrom/drupalextension/issues/143)<br />
+
 Drupal <br />
 [Youtube - Drupal Organic Group](https://www.youtube.com/watch?v=WYwKeIQxzXA&index=3&list=PL6QdPLErV64W4ebptZgIvwkkrTIAjMGhM)<br />
 [THE SECRET LIFE OF
@@ -76,7 +83,9 @@ https://support.tutum.co/support/solutions/articles/5000562494-multi-container-w
 [Docker for Developers - Part 2 - Docker Track](https://www.youtube.com/watch?v=ZsIb5tkyncA)<br />
 
 Docker/Wordpress:<br />
+[Multiple WordPresses (and a Koken site) all in Docker](http://www.petertaylor.me/multiple-wordpresses-koken-site-docker/)<br />
 [Host multiple websites on a single host with Docker](http://blog.florianlopes.io/host-multiple-websites-on-single-host-docker/)<br />
+[Ultimate WordPress Docker setup guide](https://cianallner.com/ultimate-wordpress-docker-setup-guide/)<br />
 [Automated Nginx Reverse Proxy for Docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)<br />
 [Using Docker and Nginx to serve multiple Wordpress sites » 11 Aug 2015](http://donalfarrell.com/2015/08/11/Docker-Nginx-Multi-Wordpress.html)<br />
 [Docker for WordPress MultiSite development](http://goldsounds.com/archives/2015/04/16/docker-for-wordpress-multisite-development/)<br />
@@ -84,6 +93,48 @@ Wordpress Theme:<br />
 https://wordpress.org/themes/llorix-one-lite/ <br />
 http://themeisle.com/demo/?theme=Llorix%20One&utm_source=webcodegeeks&utm_medium=email&utm_campaign=dedicated <br />
 http://athemes.com/collections/free-parallax-wordpress-themes/ <br />
+
+microsoft cortana:<br />
+[https://msdn.microsoft.com/en-us/cortana/action](https://msdn.microsoft.com/en-us/cortana/action)<br />
+[Overview of Cortana extensibility](https://msdn.microsoft.com/cortana/getstarted)<br />
+[Video-Search Result Cortana](https://mva.microsoft.com/search/SearchResults.aspx#!q=cortana&index=2&lang=1033)<br />
+[Integrating Cortana in Your Apps](https://mva.microsoft.com/en-us/training-courses/integrating-cortana-in-your-apps-8487?l=Fo7XJ6Xz_3704984382)<br />
+[Github-Cortana voice command sample](https://github.com/GlitterPrincess/Windows-universal-samples/tree/master/Samples/CortanaVoiceCommand)<br />
+[Developing Universal Windows Apps with HTML and JavaScript: (01) Introduction to Universal Apps](https://channel9.msdn.com/Series/Developing-Universal-Windows-Apps-with-HTML-and-JavaScript/01)<br />
+[How to use Cortana with Netflix, Uber, and other Windows Store apps](http://www.pcworld.com/article/3029968/windows/how-to-use-cortana-with-netflix-uber-and-other-windows-store-apps.html)<br />
+[Google Search-Cortana Speech SDK](https://www.google.com/#q=cortana%20and%20speech%20sdk&rct=j)<br />
+[Microsoft hopes Cortana will lead an army of chatbots to victory](https://www.engadget.com/2016/03/30/microsoft-build-cortana-chatbot-ai/)<br />
+
+Alexa:<br />
+[Alexa Developers](https://www.youtube.com/channel/UCbx0SPpWT6yB7_yY_ik7pmg)<br />
+[Hacking Ep. 1: Amazon Echo Skills using Amazon Lambda](https://www.youtube.com/watch?v=ehQig94h4Ms)<br />
+[Coding the Amazon Echo (Alexa) - How to create custom Alexa skills from scratch with AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g)<br />
+[An Introduction to Amazon Echo and the Alexa Skills Kit](https://www.youtube.com/watch?v=31K4vse9Jmc)<br />
+[Creating a Python AWS Lambda function to use with an Alexa Skill Kit](https://www.youtube.com/watch?v=WFWAK175p2g)<br />
+[Coding the Amazon Echo (Alexa) - How to create custom Alexa skills from scratch with AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g)<br />
+[Developing Alexa Skills - Hello, Alexa! (Part 1 of 6)](https://www.youtube.com/watch?v=QxgdPI1B7rg)<br />
+[Developing Alexa Skills - Sessions and Voice User Interfaces (Part 3 of 6)](https://www.youtube.com/watch?v=GnjY8cqSPf0)<br />
+
+API.ai:<br />
+[How to Build Your Own AI Assistant Using Api.ai](https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/)<br />
+
+Slackbot:<br />
+https://www.dataquest.io/blog/apartment-finding-slackbot/
+
+CodeDeploy + Github:<br />
+[Youtube-codedeploy + github](https://www.youtube.com/results?search_query=codedeploy+%2B+github)<br />
+[Youtube-AWSGurua](https://www.youtube.com/channel/UC2lrQrk6wnND-G6PyZ5zu9w)<br />
+[AWS Code Deploy and Travis CI](https://www.youtube.com/watch?v=Ia79VEPbU5c)<br />
+
+Docker and Elastic Beanstalk:<br />
+[Create a Pipeline for Elastic Beanstalk in CodePipeline using CloudFormation and CodeCommit](https://stelligent.com/2016/05/06/create-a-pipeline-for-elastic-beanstalk-in-codepipeline-using-cloudformation-and-codecommit/)<br />
+[AWS Elastic Beanstalk and Docker by Evan Brown (AWS)](https://www.youtube.com/watch?v=OzLXj2W2Rss)<br />
+
+AWS CodePipeline:<br />
+[Create a Pipeline using the AWS CodePipeline Console](https://www.youtube.com/watch?v=glVR2zjq1j4)<br />
+[Now Available – AWS CodePipeline](https://aws.amazon.com/blogs/aws/now-available-aws-codepipeline/)<br />
+[Multi-Domain Projects on AWS Elastic Beanstalk](https://www.roth-digital.de/2013/01/26/multi-domain-projects-on-aws-elastic-beanstalk/)<br />
+[Create a Pipeline Using the AWS Code Pipeline Console](https://dzone.com/articles/create-a-pipeline-using-the-aws-codepipeline-conso)<br />
 
 3DPrinting:<br />
 http://www.instructables.com/id/Chimera-60-DLP-resin-3d-printer/ <br />
