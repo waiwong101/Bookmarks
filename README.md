@@ -117,6 +117,7 @@ Alexa:<br />
 
 Alexa/Python:
 [Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
+[Building an Amazon Echo Skill with Python and Lambda](http://www.timcarr.net/?p=372)<br />
 
 API.ai:<br />
 [How to Build Your Own AI Assistant Using Api.ai](https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/)<br />
