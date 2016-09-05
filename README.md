@@ -115,6 +115,9 @@ Alexa:<br />
 [Developing Alexa Skills - Hello, Alexa! (Part 1 of 6)](https://www.youtube.com/watch?v=QxgdPI1B7rg)<br />
 [Developing Alexa Skills - Sessions and Voice User Interfaces (Part 3 of 6)](https://www.youtube.com/watch?v=GnjY8cqSPf0)<br />
 
+Alexa/Python:
+[Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
+
 API.ai:<br />
 [How to Build Your Own AI Assistant Using Api.ai](https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/)<br />
 
