@@ -115,7 +115,10 @@ Alexa:<br />
 [Developing Alexa Skills - Hello, Alexa! (Part 1 of 6)](https://www.youtube.com/watch?v=QxgdPI1B7rg)<br />
 [Developing Alexa Skills - Sessions and Voice User Interfaces (Part 3 of 6)](https://www.youtube.com/watch?v=GnjY8cqSPf0)<br />
 
-Alexa/Python:
+Alexa/Node.js:<br />
+[Building an Amazon Alexa Skill with Node.js](https://codequs.com/p/SysrH7KZi/building-an-amazon-alexa-skill-with-node-js/)<br />
+
+Alexa/Python:<br />
 [Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
 [Building an Amazon Echo Skill with Python and Lambda](http://www.timcarr.net/?p=372)<br />
 
