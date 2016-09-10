@@ -118,6 +118,8 @@ Alexa:<br />
 
 Alexa/Node.js:<br />
 [Building an Amazon Alexa Skill with Node.js](https://codequs.com/p/SysrH7KZi/building-an-amazon-alexa-skill-with-node-js/)<br />
+[Forum - retrieve text off of a webpage](https://forums.developer.amazon.com/questions/34296/is-there-a-way-to-retrieve-text-off-of-a-webpage-i.html)<br />
+[Forum - parse an RSS news feed for the titles?](https://forums.developer.amazon.com/questions/34473/is-there-a-way-to-parse-an-rss-news-feed-for-the-t.html)<br />
 
 Alexa/Python:<br />
 [Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
