@@ -104,6 +104,7 @@ microsoft cortana:<br />
 [How to use Cortana with Netflix, Uber, and other Windows Store apps](http://www.pcworld.com/article/3029968/windows/how-to-use-cortana-with-netflix-uber-and-other-windows-store-apps.html)<br />
 [Google Search-Cortana Speech SDK](https://www.google.com/#q=cortana%20and%20speech%20sdk&rct=j)<br />
 [Microsoft hopes Cortana will lead an army of chatbots to victory](https://www.engadget.com/2016/03/30/microsoft-build-cortana-chatbot-ai/)<br />
+[Adding Cortana to your Windows 10 App](http://blog.mptolly.com/adding-cortana-to-your-windows-10-app/)<br />
 
 Alexa:<br />
 [Alexa Developers](https://www.youtube.com/channel/UCbx0SPpWT6yB7_yY_ik7pmg)<br />
