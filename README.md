@@ -202,6 +202,9 @@ Git: <br />
 [How to Sync a GitHub Fork and Rebase a Pull Request](https://www.youtube.com/watch?v=M7ZYkjOWr6g) <br />
 [Everything I Wish I Knew When I Started Using GitHub](https://www.youtube.com/watch?v=KDUtjZHIx44) <br />
 
+Auctions: <br>
+[Proxy Auction](https://www.proxibid.com/)<br />
+[Seized Assets Auctioneers](http://www.icollector.com/Seized-Assets-Auctioneers_ae1969)<br />
 
 https://www.youtube.com/watch?v=OdF5sFZbBdk <br />
 https://medium.com/aws-activate-startup-blog/high-availability-for-mere-mortals-37edab2fd0f9?adbid=z12iunsjkzecc52fv221ez2jtoeqijchx04&adbpl=gp&adbpr=100017971115449920316&adbsc=startups_20150514_45784706&short_code=2zriw <br />
