@@ -1,5 +1,5 @@
 # Bookmarks
-
+[]()<br />
 http://www.amazon.com/dp/B00002NDRQ/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=22W0W81SGWBJP&coliid=I24Z4JS4TFRRQN&psc=1"  <br />
 https://www.amzreviewtrader.com/  <br />
 https://courses.edx.org/login?next=/dashboard#  <br />
@@ -136,15 +136,25 @@ CodeDeploy + Github:<br />
 [Youtube-AWSGurua](https://www.youtube.com/channel/UC2lrQrk6wnND-G6PyZ5zu9w)<br />
 [AWS Code Deploy and Travis CI](https://www.youtube.com/watch?v=Ia79VEPbU5c)<br />
 
+Elastic Beanstalk: <br />
+[How to deploy your application to AWS Elastic Beanstalk | AWS Elastic Beanstalk Survival Guide](http://colintoh.com/blog/how-to-deploy-application-to-aws-elastic-beanstalk)<br />
+
 Docker and Elastic Beanstalk:<br />
 [Create a Pipeline for Elastic Beanstalk in CodePipeline using CloudFormation and CodeCommit](https://stelligent.com/2016/05/06/create-a-pipeline-for-elastic-beanstalk-in-codepipeline-using-cloudformation-and-codecommit/)<br />
 [AWS Elastic Beanstalk and Docker by Evan Brown (AWS)](https://www.youtube.com/watch?v=OzLXj2W2Rss)<br />
+
+AWS: <br />
+[How to One-Button Everything in AWS](https://dzone.com/articles/one-button-everything-in-aws)<br />
 
 AWS CodePipeline:<br />
 [Create a Pipeline using the AWS CodePipeline Console](https://www.youtube.com/watch?v=glVR2zjq1j4)<br />
 [Now Available – AWS CodePipeline](https://aws.amazon.com/blogs/aws/now-available-aws-codepipeline/)<br />
 [Multi-Domain Projects on AWS Elastic Beanstalk](https://www.roth-digital.de/2013/01/26/multi-domain-projects-on-aws-elastic-beanstalk/)<br />
 [Create a Pipeline Using the AWS Code Pipeline Console](https://dzone.com/articles/create-a-pipeline-using-the-aws-codepipeline-conso)<br />
+
+Slack: <br />
+[How I built a Slack bot to help me find an apartment in San Francisco](https://www.dataquest.io/blog/apartment-finding-slackbot/)<br />
+[Slackwatch: Monitor Your AWS Service from Slack using Cloudwatch and SNS](http://blog.bandwidth.com/slackwatch-monitor-your-aws-service-from-slack-using-cloudwatch-and-sns/)<br />
 
 Acer:<br />
 [Acer Community](http://community.acer.com/t5/Windows-Tablets-and-Convertibles/bd-p/tablets-win)<br />
