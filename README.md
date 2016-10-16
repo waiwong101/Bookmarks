@@ -122,6 +122,7 @@ Alexa/Node.js:<br />
 [Forum - parse an RSS news feed for the titles?](https://forums.developer.amazon.com/questions/34473/is-there-a-way-to-parse-an-rss-news-feed-for-the-t.html)<br />
 [Alexa Skills Tutorial: The Definitive Guide to Coding for the Amazon Echo](http://tobuildsomething.com/2015/08/14/Amazon-Echo-Alexa-Tutorial-The-Definitive-Guide-to-Coding-an-Alexa-Skill/)<br />
 [StockQuotes](http://analyticphysics.com/Diversions/An%20Alexa%20Skills%20Kit%20(ASK)%20JavaScript%20Cookbook.htm)<br />
+[alexa-bus-schedule](https://github.com/dustincoates/alexa-bus-schedule/blob/master/src/index.js)<br />
 
 Alexa/Python:<br />
 [Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
