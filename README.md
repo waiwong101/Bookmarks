@@ -116,6 +116,9 @@ Alexa:<br />
 [Developing Alexa Skills - Hello, Alexa! (Part 1 of 6)](https://www.youtube.com/watch?v=QxgdPI1B7rg)<br />
 [Developing Alexa Skills - Sessions and Voice User Interfaces (Part 3 of 6)](https://www.youtube.com/watch?v=GnjY8cqSPf0)<br />
 
+Node.js<br />
+[How do I make a http request?](https://docs.nodejitsu.com/articles/HTTP/clients/how-to-create-a-HTTP-request/)<br />
+
 Alexa/Node.js:<br />
 [Building an Amazon Alexa Skill with Node.js](https://codequs.com/p/SysrH7KZi/building-an-amazon-alexa-skill-with-node-js/)<br />
 [Forum - retrieve text off of a webpage](https://forums.developer.amazon.com/questions/34296/is-there-a-way-to-retrieve-text-off-of-a-webpage-i.html)<br />
