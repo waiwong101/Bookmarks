@@ -147,6 +147,7 @@ Elastic Beanstalk: <br />
 [Elastic Beanstalk and Drupal Settings](http://damontorgerson.com/aws/drupal/elastic-beanstalk-drupal-settings/)<br />
 [Drush ebextension](https://github.com/scottylogan/aws-drupal/tree/master/.ebextensions)<br />
 [Drupal lost settings and public files when pushing to AWS Elastic Beanstalk](http://stackoverflow.com/questions/19391317/drupal-lost-settings-and-public-files-when-pushing-to-aws-elastic-beanstalk)<br />
+[Drupal climbs the AWS Elastic Beanstalk](https://peterjlord.co.uk/article/drupal-climbs-aws-elastic-beanstalk)<br />
 
 Docker and Elastic Beanstalk:<br />
 [Create a Pipeline for Elastic Beanstalk in CodePipeline using CloudFormation and CodeCommit](https://stelligent.com/2016/05/06/create-a-pipeline-for-elastic-beanstalk-in-codepipeline-using-cloudformation-and-codecommit/)<br />
