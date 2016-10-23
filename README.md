@@ -144,6 +144,8 @@ CodeDeploy + Github:<br />
 
 Elastic Beanstalk: <br />
 [How to deploy your application to AWS Elastic Beanstalk | AWS Elastic Beanstalk Survival Guide](http://colintoh.com/blog/how-to-deploy-application-to-aws-elastic-beanstalk)<br />
+[Elastic Beanstalk and Drupal Settings](http://damontorgerson.com/aws/drupal/elastic-beanstalk-drupal-settings/)<br />
+[Drush ebextension](https://github.com/scottylogan/aws-drupal/tree/master/.ebextensions)<br />
 
 Docker and Elastic Beanstalk:<br />
 [Create a Pipeline for Elastic Beanstalk in CodePipeline using CloudFormation and CodeCommit](https://stelligent.com/2016/05/06/create-a-pipeline-for-elastic-beanstalk-in-codepipeline-using-cloudformation-and-codecommit/)<br />
