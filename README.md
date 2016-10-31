@@ -126,6 +126,7 @@ Alexa/Node.js:<br />
 [Alexa Skills Tutorial: The Definitive Guide to Coding for the Amazon Echo](http://tobuildsomething.com/2015/08/14/Amazon-Echo-Alexa-Tutorial-The-Definitive-Guide-to-Coding-an-Alexa-Skill/)<br />
 [StockQuotes](http://analyticphysics.com/Diversions/An%20Alexa%20Skills%20Kit%20(ASK)%20JavaScript%20Cookbook.htm)<br />
 [alexa-bus-schedule](https://github.com/dustincoates/alexa-bus-schedule/blob/master/src/index.js)<br />
+[How to report Node.js errors from AWS ](http://blog.honeybadger.io/how-to-report-node-js-errors-from-aws-lambda/)<br />
 
 Alexa/Python:<br />
 [Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
