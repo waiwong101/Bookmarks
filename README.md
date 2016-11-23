@@ -121,8 +121,7 @@ Node.js<br />
 [Node.js: Parse JSON object](http://stackoverflow.com/questions/6486208/node-js-parse-json-object)<br />
 [JavaScript Date Reference](http://www.w3schools.com/jsref/jsref_obj_date.asp)<br />
 [HTTPS Node.js v7.2.0 Documentation](https://nodejs.org/api/https.html)<br />
-
-Node.js and JSON <br />
+[Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)<br />
 [How to Use JSON files in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-use-json-files-in-node-js)<br />
 
 Alexa/Node.js:<br />
