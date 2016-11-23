@@ -122,6 +122,9 @@ Node.js<br />
 [JavaScript Date Reference](http://www.w3schools.com/jsref/jsref_obj_date.asp)<br />
 [HTTPS Node.js v7.2.0 Documentation](https://nodejs.org/api/https.html)<br />
 
+Node.js and JSON <br />
+[How to Use JSON files in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-use-json-files-in-node-js)<br />
+
 Alexa/Node.js:<br />
 [Building an Amazon Alexa Skill with Node.js](https://codequs.com/p/SysrH7KZi/building-an-amazon-alexa-skill-with-node-js/)<br />
 [Forum - retrieve text off of a webpage](https://forums.developer.amazon.com/questions/34296/is-there-a-way-to-retrieve-text-off-of-a-webpage-i.html)<br />
