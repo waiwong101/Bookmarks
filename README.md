@@ -120,6 +120,7 @@ Node.js<br />
 [How do I make a http request?](https://docs.nodejitsu.com/articles/HTTP/clients/how-to-create-a-HTTP-request/)<br />
 [Node.js: Parse JSON object](http://stackoverflow.com/questions/6486208/node-js-parse-json-object)<br />
 [JavaScript Date Reference](http://www.w3schools.com/jsref/jsref_obj_date.asp)<br />
+[HTTPS Node.js v7.2.0 Documentation](https://nodejs.org/api/https.html)<br />
 
 Alexa/Node.js:<br />
 [Building an Amazon Alexa Skill with Node.js](https://codequs.com/p/SysrH7KZi/building-an-amazon-alexa-skill-with-node-js/)<br />
