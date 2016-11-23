@@ -293,6 +293,7 @@ https://www.youtube.com/watch?v=g2N5OOTu0xQ&feature=iv&src_vid=eYCv9RsXjkc&annot
 Food: <br />
 [香滑的椰汁馬豆糕【怎可抗拒的甜品】](http://www.christinesrecipes.com/2008/08/split-pea-and-coconut-cream-pudding.html)<br />
 [豬腳醋](http://www.cocomy.net/post/218435)<br />
+[教你自己動手自製腸粉，零失敗！](http://www.cocomy.net/post/182076)<br />
 
 
 
