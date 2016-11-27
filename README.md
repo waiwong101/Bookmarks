@@ -302,7 +302,8 @@ Food: <br />
 [-【10種糖水做法大全】](http://www.cocomy.net/post/220463)<br />
 [-新年自製豬肉乾](http://www.cocomy.net/post/222191)<br />
 [百年老店熬粥的秘訣](http://www.cocomy.net/post/221962)<br />
-
+[豬腳醋](http://www.cocomy.net/post/223733)<br />
+[14款乳酪蛋糕食譜](http://www.cocomy.net/post/223686)<br />
 
 
 
