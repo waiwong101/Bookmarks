@@ -94,6 +94,11 @@ https://wordpress.org/themes/llorix-one-lite/ <br />
 http://themeisle.com/demo/?theme=Llorix%20One&utm_source=webcodegeeks&utm_medium=email&utm_campaign=dedicated <br />
 http://athemes.com/collections/free-parallax-wordpress-themes/ <br />
 
+Google Actions: <br />
+[Actios on Google](https://developers.google.com/actions/)<br />
+[Learn how to build actions quickly](https://developers.google.com/actions/samples/?utm_source=devnewsletter&utm_medium=email&utm_campaign=december_2016)<br />
+[Github - Actions On Google](https://github.com/actions-on-google)<br />
+
 microsoft cortana:<br />
 [https://msdn.microsoft.com/en-us/cortana/action](https://msdn.microsoft.com/en-us/cortana/action)<br />
 [Overview of Cortana extensibility](https://msdn.microsoft.com/cortana/getstarted)<br />
