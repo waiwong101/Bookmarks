@@ -53,6 +53,7 @@ ORGANIC GROUPS](http://wayneeaker.com/sites/default/files/uploads/dc2015-og-pres
 [OG Archives Video - Johan Falk/NodeOne](https://archive.org/search.php?query=subject%3A%22Organic+groups%22)<br />
 [OG Menu Video](http://wayneeaker.com/presentations/2015-05-13-secret-life-organic-groups)<br />
 [OG Menu](https://www.drupal.org/node/667822)<br />
+[Deploying drupal on Elastic Beanstalk 8.2.2](https://github.com/awslabs/eb-php-drupal)<br />
 
 RPI: <br />
 https://github.com/amzn/alexa-avs-raspberry-pi/blob/master/README.md <br />
