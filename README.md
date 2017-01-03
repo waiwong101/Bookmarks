@@ -320,6 +320,13 @@ Food: <br />
 [-脆皮五花肉](http://www.cocomy.net/post/260740)<br />
 [Tofu Fa (Tofu Custard)](http://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html)<br />
 
-
+  <ifmodule mod_setenvif.c>
+    # Match all IP addresses beginning with 161.149
+    SetEnvIf Host ^testmod\.test-cityofla\.acsitefactory\.com$ origin=1
+    SetEnvIf AH_CLIENT_IP ^161\.149\. Allow_Host=1 
+    Order deny,allow
+    Deny from env=origin
+    Allow from env=Allow_Host
+   </ifmodule>
 
 
