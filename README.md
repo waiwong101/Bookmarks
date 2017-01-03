@@ -31,6 +31,16 @@ https://www.youtube.com/watch?v=Bmm_3YCMgIc <br />
 http://www.cyberair.co.uk/support/windows/sharing-internet-connection-to-other-devices-via-ethernet-cable <br />
 https://support.purevpn.com/vpn-servers <br />
 
+Acquia .htaccess: <br />
+[Preventing access to a domain](https://docs.acquia.com/article/blocking-access-using-rewrites)<br />
+[Apache Mod_Rewrite and Regular Expressions](https://www.webmasterworld.com/forum92/4332.htm)<br />
+[How can I use SetEnvIf to set a variable based on the Http Host?](http://serverfault.com/questions/226456/how-can-i-use-setenvif-to-set-a-variable-based-on-the-http-host)<br />
+[Apache Module mod_authz_host](http://httpd.apache.org/docs/2.2/mod/mod_authz_host.html#allow)<br />
+
+Varnish <br />
+[Varnish allow/reject connections with IPs list (ACL)](http://www.harecoded.com/varnish-allowreject-connections-with-ips-list-acl-2183580)<br />
+
+
 Testing: <br />
 [Product Integration Testing at the Speed of Netflix](http://techblog.netflix.com/2016/07/product-integration-testing-at-speed-of-Netflix.html) <br />
 [Netflix Test Studio](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)<br />
