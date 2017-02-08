@@ -110,6 +110,9 @@ Google Actions: <br />
 [Learn how to build actions quickly](https://developers.google.com/actions/samples/?utm_source=devnewsletter&utm_medium=email&utm_campaign=december_2016)<br />
 [Github - Actions On Google](https://github.com/actions-on-google)<br />
 
+Cortana Bot tutorial:<br />
+[Microsoft Bot](https://www.sitepoint.com/premium/courses/ms-bots-2939/lesson/1/step/1)<br />
+
 microsoft cortana:<br />
 [https://msdn.microsoft.com/en-us/cortana/action](https://msdn.microsoft.com/en-us/cortana/action)<br />
 [Overview of Cortana extensibility](https://msdn.microsoft.com/cortana/getstarted)<br />
