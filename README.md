@@ -175,6 +175,7 @@ Elastic Beanstalk: <br />
 [Drush ebextension](https://github.com/scottylogan/aws-drupal/tree/master/.ebextensions)<br />
 [Drupal lost settings and public files when pushing to AWS Elastic Beanstalk](http://stackoverflow.com/questions/19391317/drupal-lost-settings-and-public-files-when-pushing-to-aws-elastic-beanstalk)<br />
 [Drupal climbs the AWS Elastic Beanstalk](https://peterjlord.co.uk/article/drupal-climbs-aws-elastic-beanstalk)<br />
+[EFS - Elastic Beanstalk - How to Run Scalable Wordpress on AWS (Amazon Web Services) Tutorial](https://parall.ax/blog/view/3212/how-to-run-scalable-wordpress-on-aws-amazon-web-services-tutorial)<br />
 
 
 Docker and Elastic Beanstalk:<br />
