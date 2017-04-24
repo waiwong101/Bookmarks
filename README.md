@@ -37,10 +37,14 @@ Acquia .htaccess: <br />
 [How can I use SetEnvIf to set a variable based on the Http Host?](http://serverfault.com/questions/226456/how-can-i-use-setenvif-to-set-a-variable-based-on-the-http-host)<br />
 [Apache Module mod_authz_host](http://httpd.apache.org/docs/2.2/mod/mod_authz_host.html#allow)<br />
 
-Varnish <br />
+Varnish block bots <br>
+[Varnish4 - varnish-bad-bot-detection GitHub VCL](https://github.com/wolstena/varnish-bad-bot-detection)<br />
+[Varnish3/4](https://www.pckr.co.uk/varnish-block-empty-user-agent-and-empty-referer/)<br />
+
+Varnish3 <br />
 [Varnish allow/reject connections with IPs list (ACL)](http://www.harecoded.com/varnish-allowreject-connections-with-ips-list-acl-2183580)<br />
 
-Varnish / ELB / Drupal 7 <br />
+Varnish3/ ELB / Drupal 7 <br />
 [ANDREWDUNKLE-Installing The Varnish Cache System for Drupal 7](http://andrewdunkle.com/2012/installing-varnish-for-drupal-7.html)<br />
 [varnish-3.0-configuration-templates/production.vcl](https://github.com/mattiasgeniar/varnish-3.0-configuration-templates/blob/master/production.vcl)<br />
 [Varnish 3.x Configuration](https://www.drupal.org/docs/7/caching-to-improve-performance/varnish-3x-configuration)<br />
