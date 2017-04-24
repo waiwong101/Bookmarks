@@ -40,6 +40,57 @@ Acquia .htaccess: <br />
 Varnish <br />
 [Varnish allow/reject connections with IPs list (ACL)](http://www.harecoded.com/varnish-allowreject-connections-with-ips-list-acl-2183580)<br />
 
+Varnish / ELB / Drupal 7 <br />
+[ANDREWDUNKLE-Installing The Varnish Cache System for Drupal 7](http://andrewdunkle.com/2012/installing-varnish-for-drupal-7.html)<br />
+[varnish-3.0-configuration-templates/production.vcl](https://github.com/mattiasgeniar/varnish-3.0-configuration-templates/blob/master/production.vcl)<br />
+[Varnish 3.x Configuration](https://www.drupal.org/docs/7/caching-to-improve-performance/varnish-3x-configuration)<br />
+[Drupal Varnish Module](https://www.drupal.org/project/varnish)<br />
+[The Varnish control terminal is not responding at 127.0.0.1 on port 6082](https://www.drupal.org/node/1186842)<br />
+[Solving the dreaded Varnish 503 error](http://www.technoreply.com/solving-dreaded-varnish-503-error/)<br />
+[Varnish Cache Snippets](https://www.drupal.org/docs/7/caching-to-improve-performance/varnish-cache)<br />
+[Avoid getting banned by Drupal flood protection when using Varnish](http://munix.dk/avoid-getting-banned-drupal-flood-protection-when-using-varnish)<br />
+[Log visitors IP instead of ELB IP in an Elastic Beanstalk application](http://www.michaelgallego.fr/blog/2013/09/26/log-visitors-ip-instead-of-elb-ip-in-an-elastic-beanstalk-application/)<br />
+[Reverse proxy configuration for Drupal 7 sites](https://www.karelbemelmans.com/2015/04/reverse-proxy-configuration-for-drupal-7-sites/)<br />
+[Determining the real client IP with Varnish (w/ X-Forwarded-For)](http://www.harecoded.com/determining-the-real-client-ip-with-varnish-w-x-forwarded-for-2177289)<br />
+[Varnish won't start as service but works fine from command line?](https://serverfault.com/questions/614787/varnish-wont-start-as-service-but-works-fine-from-command-line)<br />
+
+Varnish starts if I do this:
+bash -x /etc/init.d/varnish start
+but not
+/etc/init.d/varnish start
+
+Validating VCL<br />
+# more /etc/varnish/default.vcl
+# sudo service varnish stop
+
+# use this command to check for errors why it doesn't start:
+sudo varnishd -C -f /etc/sysconfig/varnish
+
+# sudo varnishd -C -f /etc/varnish/default.vcl <br />
+Check if responses from varnish, etc
+[ec2-user@ip-172-30-0-107 log]$ curl -I localhost:8080
+HTTP/1.1 403 Forbidden
+Date: Sun, 23 Apr 2017 16:41:46 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=iso-8859-1
+
+[ec2-user@ip-172-30-0-107 log]$ curl -I localhost:80
+HTTP/1.1 403 Forbidden
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 209
+Accept-Ranges: bytes
+Date: Sun, 23 Apr 2017 16:41:56 GMT
+X-Varnish: 903874094
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Cache: MISS
+
+
+
 
 Testing: <br />
 [Product Integration Testing at the Speed of Netflix](http://techblog.netflix.com/2016/07/product-integration-testing-at-speed-of-Netflix.html) <br />
