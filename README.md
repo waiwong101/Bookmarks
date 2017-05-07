@@ -397,5 +397,5 @@ Food: <br />
 [超滑的鮮奶燉蛋](http://www.christinesrecipes.com/2008/04/steamed-eggs-with-milk-dessert.html)<br />
 [纸包蛋糕](http://en.christinesrecipes.com/2008/08/cake-wrapped-in-paper-hong-kong.html)<br />
 [烤脆皮燒肉的詳細做法](http://www.cocomy.net/post/357282)<br />
-
+[雞蛋仔](http://en.christinesrecipes.com/2010/09/hong-kong-style-egg-waffle-original.html)<br />
 
