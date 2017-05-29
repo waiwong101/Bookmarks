@@ -94,7 +94,11 @@ Connection: keep-alive
 X-Varnish-Cache: MISS
 
 
-
+Install Mod_security: <br />
+sudo yum install httpd24-devel.x86_64 <br />
+sudo yum install mod24_security.x86_64 <br />
+Don't forget to restart apache <br />
+sudo /etc/init.d/httpd restart <br />
 
 Testing: <br />
 [Product Integration Testing at the Speed of Netflix](http://techblog.netflix.com/2016/07/product-integration-testing-at-speed-of-Netflix.html) <br />
