@@ -217,6 +217,14 @@ Alexa/Python:<br />
 [Alexa Skills Kit / Flask-Ask Quickstart](https://alexatutorial.com/)<br />
 [Building an Amazon Echo Skill with Python and Lambda](http://www.timcarr.net/?p=372)<br />
 
+Alexa/Maps API:<br />
+[ZipCodeAPI.com - Live API](https://www.zipcodeapi.com/API)<br />
+[FreeMapTools](https://www.freemaptools.com/radius-around-point.htm)<br />
+[ProMap Tools](https://www.promaptools.com/#zips-inside-radius)<br />
+[ZipCode](https://www.programmableweb.com/category/zip-codes/api)<br />
+[SmartyStreets ZipCode API](https://smartystreets.com/docs/cloud/us-zipcode-api)<br />
+[]()<br />
+
 API.ai:<br />
 [How to Build Your Own AI Assistant Using Api.ai](https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/)<br />
 
