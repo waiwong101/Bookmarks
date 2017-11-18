@@ -347,7 +347,8 @@ https://www.youtube.com/watch?v=mP46FviScYQ <br />
 http://prague2013.drupal.org/session/automate-drupal-deployments-linux-containers-docker-and-vagrant.html <br />
 http://www.rightscale.com/blog/enterprise-cloud-strategies/architecting-scalable-applications-cloud-database-tier <br />
 http://www.slideshare.net/AmazonWebServices/ddos-resiliency-with-amazon-web-services-sec305-aws-reinvent-2013 <br />
-http://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html <br />
+
+[]http://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html <br />
 http://zennmaster.com/ <br />
 https://learn.adafruit.com/2-8-tft-touch-shield <br />
 http://www.webmd.com/skin-problems-and-treatments/shingles/shingles-topic-overview <br />
@@ -414,4 +415,5 @@ Food: <br />
 [砵仔糕 ～ 不使用精製片糖](http://www.beanpanda.com/67035)<br />
 [Chinese Almond Dessert](http://en.christinesrecipes.com/2015/01/chinese-almond-dessert.html)<br />
 [Mango Grapefruit Sago in Coconut Milk (楊枝甘露)](http://en.christinesrecipes.com/2015/12/mango-grapefruit-sago-coconut-milk.html)<br />
+[Hong Kong Style Faux Shark’s Fin Soup (香港碗仔翅)](https://www.facebook.com/LeeKumKeeGlobal/videos/10155707795363703/?hc_ref=ARSf_3xTmByhwXHuB8O9lcm2lsr_Etw6Dad83nkr9IAGQmjDiLhwPiUSzFWAoNGLHxk)<br />
 
